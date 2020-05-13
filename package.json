@@ -1,0 +1,25 @@
+{
+  "name": "gingerbee_npm",
+  "version": "0.1.0",
+  "description": "This module allows a quick dynamic footer for Javascript applications with company name, year and copyright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HajaSChilds/gingerbee_npm.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Haja Childs <your@email.com> (http://www.yourhomepage.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HajaSChilds/gingerbee_npm/issues"
+  },
+  "homepage": "https://github.com/HajaSChilds/gingerbee_npm#readme",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
