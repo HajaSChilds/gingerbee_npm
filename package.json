@@ -1,6 +1,6 @@
 {
   "name": "gingerbee_npm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module allows a quick dynamic footer for Javascript applications with company name, year and copyright",
   "main": "index.js",
   "scripts": {
