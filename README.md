@@ -1,6 +1,6 @@
-## Gingerbee JS Footer
+## Gingerbee Js Footer
 
-> This shoule be used in the following manner
+> This should be used in the following manner
 
 Install with the command:
 ```
@@ -11,5 +11,5 @@ npm install --save gingerbee_npm
 ```javascript
 import {footer} from gingerbee_npm;
 
-footer('Some Name');
+footer('Your Company Name Here');
 ```
